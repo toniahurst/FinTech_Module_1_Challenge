@@ -92,7 +92,6 @@ npv = calculate_present_value(future_value, remaining_months, annual_discount_ra
 
 print(f"The present value of the loan is: ${npv:0.2f}")
 
-
 # Part 4: Conditionally filter lists of loans.
 # Use a loop to iterate through a series of loans and select only the inexpensive loans.
 # Create a new, empty list called `inexpensive_loans`.

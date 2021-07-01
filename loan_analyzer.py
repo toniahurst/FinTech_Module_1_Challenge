@@ -186,5 +186,5 @@ with open(csvpath, 'w', newline='') as csvfile:
 
 print("")
 print("* * * * * * * * * * * * * * * * * * * PART 5 * * * * * * * * * * * * * * * * * * * *\n")
-print(f"Writing inexpensive loans to file...\n")
+print(f"Now writing inexpensive loans to file...\n")
 print("* * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *\n")
